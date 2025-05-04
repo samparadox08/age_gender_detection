@@ -8,8 +8,8 @@ In this Python Project, I had used Deep Learning to accurately identify the gend
 # Dataset :
 For this python project, I had used the Adience dataset; the dataset is available in the public domain and you can find it here. This dataset serves as a benchmark for face photos and is inclusive of various real-world imaging conditions like noise, lighting, pose, and appearance. The images have been collected from Flickr albums and distributed under the Creative Commons (CC) license. It has a total of 26,580 photos of 2,284 subjects in eight age ranges (as mentioned above) and is about 1GB in size. The models I used had been trained on this dataset.
 
-Additional Python Libraries Required :
-OpenCV
+# Additional Python Libraries Required :
+# OpenCV
    pip install opencv-python
-argparse
+# argparse
    pip install argparse
