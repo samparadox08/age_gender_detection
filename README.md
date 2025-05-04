@@ -13,3 +13,7 @@ For this python project, I had used the Adience dataset; the dataset is availabl
    pip install opencv-python
 # argparse
    pip install argparse
+
+# Steps-To-Follow:
+Clone the repository
+      
