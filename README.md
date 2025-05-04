@@ -19,10 +19,15 @@ Clone the repository:
    git clone https://github.com/samparadox08/age_gender_detection.git
 
 Open your Command Prompt or Terminal and change directory to the folder where all the files are present.
+
 Detecting Gender and Age of face in Image Use Command :
+   
    python detect.py --image <image_name>
+
 Note: The Image should be present in same folder where all the files are present.
 
 Detecting Gender and Age of face through webcam Use Command :
+  
   python detect.py
+
 Press Ctrl + C to stop the program execution.
